@@ -1,0 +1,12 @@
+.Header {
+    margin: auto ;
+    margin-top: 15px;
+    width: 300px;
+    line-height: 7px;
+    border: 1px solid #ccc;
+    text-align: left;
+    border-color: aquamarine;
+    background-color: rgb(147, 225, 237);
+    overflow-x: auto;
+    overflow-y: hidden;
+}
